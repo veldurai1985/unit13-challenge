@@ -35,5 +35,4 @@ You are asked to accomplish the following main tasks:
 * Create a short video or animated GIF showing a demo of your Robo Advisor in action from the test window. Upload the video or animated GIF file to your repo.
 
   [Demo_Video](Amazon_Lex_Demo.mp4)
-
 ---

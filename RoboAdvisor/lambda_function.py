@@ -156,7 +156,6 @@ def recommend_portfolio(intent_request):
         return delegate(output_session_attributes, get_slots(intent_request))
 
     # Get the initial investment recommendation
-
     if risk_level == 'None':
         initial_recommendation = "100% bonds (AGG), 0% equities (SPY)"
     elif risk_level == 'Very Low':
